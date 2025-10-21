@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "vLLM Docs": {
+      "type": "stdio",
+      "command": "npx",
+      "args": ["-y", "mcp-remote", "https://gitmcp.io/vllm-project/vllm"],
+      "env": {}
+    }
+  }
+}
